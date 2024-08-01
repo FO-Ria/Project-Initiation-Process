@@ -1,0 +1,33 @@
+QUESTION
+What are the goals of this project?
+Why now?
+
+What is you project name.
+How long do you estimate to finish this project?
+What problems might you face while working on your project?
+Are you working alone or as a team?
+Write your problem statement.
+What business benefits will this give us.
+
+
+Answers
+Enable researchers from different institutions and disciplines to collaborate more effectively.
+Growing importance of interdisciplinary and international collaborations.
+Gathering valuable data on research trends and needs.
+Search-on
+12- 18 months
+Integrating with existing tools and databases.
+A team
+Researchers in Nigeria(West Africa) face significant challenges in accessing, managing, and sharing academic resources and collating data, leading to inefficiencies, reduced collaboration, and slower progress in scientific discoveries.
+Searc-On will be an innovative platform that centralises academic resources, enhances collaboration, streamlines research processes, increases the visibility of researchers' work, and promotes open science. 
+
+Tasks
+
+Implement a user-friendly interface, security checks and integrate analytics to track user engagement.
+
+
+Break down tasks into development sprints with clear milestones.
+Introduce strict security checks to validate users that are posting houses for rent.
+Establish clear communication channels and regular progress meetings.
+
+https://docs.google.com/spreadsheets/d/1ZqX__MIcJjgpxD-8KqnCNt96SDpYro061YvawH_MHVc/edit?usp=sharing
